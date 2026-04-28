@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Fridoom Koridama"
 title_separator          : "-"
 name                     : &name "Fridoom Koridama"
 description              : &description "Aspiring Data Professional with an Economics Background, Turning Data into Real-World Insights"   # Update this with a general description of your site, this is the default if not overridden by a page
